@@ -1,0 +1,41 @@
+@media print {
+    /* Reset default styles */
+    body {
+        margin: 0;
+        padding: 0;
+        font-family: Arial, sans-serif;
+    }
+
+    h1, h2, li {
+        color: red;
+    }
+
+    /* Add custom styles for printing */
+    .header {
+        text-align: center;
+        font-size: 24px;
+        font-weight: bold;
+        margin-bottom: 20px;
+    }
+
+    .section {
+        margin-bottom: 30px;
+    }
+
+    .section h2 {
+        font-size: 18px;
+        font-weight: bold;
+        margin-bottom: 10px;
+    }
+
+    .section p {
+        font-size: 14px;
+        line-height: 1.5;
+    }
+
+    .footer {
+        text-align: center;
+        font-size: 12px;
+        margin-top: 30px;
+    }
+}
