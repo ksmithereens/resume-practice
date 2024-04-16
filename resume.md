@@ -1,49 +1,36 @@
-# Your Name
+# KHALEEL SMITH
+College student with a wide-spread skillset in the field of design. I take pride in using my creativity to produce professional design solutions.
 
-## Contact Information
-- Email: your.email@example.com
-- Phone: (123) 456-7890
-- LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/yourname)
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
-
-## Summary
-A brief summary highlighting your key skills, experience, and career goals.
 
 ## Education
-- Degree: Bachelor of Science in Computer Science
-- University: XYZ University
-- Graduation Year: 20XX
+
+* **Eastern Washington University**, Cheney, WA
+  * Bachelor of Design in Visual Communication Design (In progress)
+
+* **Eastern Iowa Community College**, Bettendorf, IA
+  * Associate of Arts
+
+## Work Experience
+* **Delivery Specialist**, Domino's Pizza
+* **Senior Living Server**, Patriots Landing
 
 ## Skills
-- Programming Languages: Python, Java, C++
-- Web Development: HTML, CSS, JavaScript
-- Frameworks: Django, React
-- Version Control: Git
-- Database: MySQL, PostgreSQL
 
-## Experience
-### Software Engineer Intern
-**Company Name** | City, State | Month Year - Month Year
-- Developed and maintained web applications using Python and Django framework.
-- Collaborated with a team of developers to implement new features and fix bugs.
-- Conducted code reviews and provided feedback to improve code quality.
+*Technical*
+* Graphic Design
+* Animation
+* 3D Modeling
+* HTML/CSS
+* Javascript
 
-### Technical Support Specialist
-**Company Name** | City, State | Month Year - Month Year
-- Assisted customers with troubleshooting software and hardware issues.
-- Resolved technical problems through phone, email, and remote support.
-- Documented solutions and created knowledge base articles for common issues.
+*Personal*
+* Creative-Thinking
+* Teamwork
+* Adaptability
+* Detail-Oriented
+* Problem-Solving
 
-## Projects
-### Project Name
-- Description: Briefly describe the project and your role in it.
-- Technologies Used: List the programming languages, frameworks, and tools used.
+## Contact
 
-## Certifications
-- Certification Name | Issuing Organization | Year
-
-## Awards and Achievements
-- Award Name | Awarding Organization | Year
-
-## References
-Available upon request
+* khaleelsmith2@gmail.com
+* 808-469-9304
